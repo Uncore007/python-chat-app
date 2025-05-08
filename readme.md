@@ -1,0 +1,1 @@
+This is a simple python based app showing how to use sockets to make create a simple chat room
