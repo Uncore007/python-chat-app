@@ -4,7 +4,7 @@ This is a simple chat based messaging app written in Python. It was written to d
 
 To use this app simply clone the repo and run both the server.py and client.py scripts. The server script will provide an IP for connecting the clients to.
 
-[Software Demo Video] (http://youtube.link.goes.here)
+[Software Demo Video] (https://youtu.be/aCdJfzmk6uE)
 
 # Network Communication
 
