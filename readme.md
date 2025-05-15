@@ -4,6 +4,14 @@ This is a simple chat based messaging app written in Python. It was written to d
 
 To use this app simply clone the repo and run both the server.py and client.py scripts. The server script will provide an IP for connecting the clients to.
 
+This completes three of the given requirments, namely: 
+
+    The client or peer should send a request to the server or another peer. A response should be sent back and used (e.g. displayed)
+
+    You can use either TCP or UDP. (TCP)
+
+    Provide support for at least three different kinds of requests that the server or the peer can respond to. (Connect, Disconnect, Send Message, Receive Message)
+
 [Software Demo Video] (https://youtu.be/aCdJfzmk6uE)
 
 # Network Communication
